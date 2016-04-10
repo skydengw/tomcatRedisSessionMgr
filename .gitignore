@@ -1,0 +1,9 @@
+# gitignore
+
+dist/
+build/
+target/
+.gradle/
+.settings/
+.project
+.classpath
